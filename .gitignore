@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.env
+.env.*
+dist/
+build/
+coverage/
+.DS_Store
+
+# Express
+logs/
+pids/
+*.pid
+*.seed
+*.log
+
+# Misc
+*.tgz
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
